@@ -1,4 +1,8 @@
-# Analysis code for appps1 manuscript.
+# Circuit-specific selective vulnerability in the DMN persists in the face of widespread amyloid burden
+
+'''
+Code for manuscript available at https://www.biorxiv.org/content/10.1101/2022.11.14.516510v2
+'''
 
 ## Installation
 ```
