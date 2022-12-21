@@ -1,8 +1,8 @@
-# Circuit-specific selective vulnerability in the DMN persists in the face of widespread amyloid burden
+# Communication in DMN Circuits in APPPS1 Mice
 
-'''
-Code for manuscript available at https://www.biorxiv.org/content/10.1101/2022.11.14.516510v2
-'''
+Code for manuscript entitled "Circuit-specific selective vulnerability in the DMN persists in the face of widespread amyloid burden" 
+Available at https://www.biorxiv.org/content/10.1101/2022.11.14.516510v2
+
 
 ## Installation
 ```
