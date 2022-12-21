@@ -1,0 +1,11 @@
+git+https://github.com/hengenlab/neuraltoolkit.git
+git+https://github.com/hengenlab/musclebeachtools_hlab.git
+ipython
+numpy
+xgboost
+pandas
+scikit-learn
+statsmodels
+scipy
+matplotlib
+seaborn
