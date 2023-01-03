@@ -1,5 +1,3 @@
-git+https://github.com/hengenlab/neuraltoolkit.git
-git+https://github.com/hengenlab/musclebeachtools_hlab.git
 ipython
 numpy==1.21.2
 xgboost
@@ -9,3 +7,6 @@ statsmodels
 scipy==1.7.3
 matplotlib
 seaborn
+git+https://github.com/hengenlab/neuraltoolkit.git
+git+https://github.com/hengenlab/musclebeachtools_hlab.git
+git+https://github.com/hengenlab/eccojams.git
