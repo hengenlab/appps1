@@ -11,5 +11,5 @@ conda activate appps1
 pip install -r requirements.txt
 
 
-Additionally, make sure unzip data into the 'data' folder.
+Additionally, unzip data into the 'data' folder.
 ```
